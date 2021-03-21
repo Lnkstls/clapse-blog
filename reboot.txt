@@ -1,0 +1,2 @@
+Sitemap: https://blog.clapse.com/sitemap.xml
+Sitemap: https://blog.clapse.com/baidusitemap.xml
